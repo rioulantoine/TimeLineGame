@@ -94,7 +94,7 @@ Travail réparti entre :
 1. Cloner le dépôt :
 
    ```bash
-   git clone <url-du-repo>
+   git clone https://github.com/rioulantoine/TimeLineGame.git
    ```
 
 2. Si vous essayez l'executable et qu'il ne fonctionne pas, suivez les étapes suivantes :
