@@ -1,0 +1,508 @@
+[ {
+  "name" : "Langages de programmation historiques",
+  "cards" : [ {
+    "name" : "Fortran",
+    "description" : "Fortran (mathematical FORmula TRANslating system) est un langage de programmation généraliste dont le domaine de prédilection est le calcul scientifique et le calcul numérique.",
+    "date" : "1954",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/b/b6/Fortran.png"
+  }, {
+    "name" : "LISP",
+    "description" : "Lisp est la plus ancienne famille de langages de programmation à la fois impératifs et fonctionnels. Développé initialement en tant que modèle pratique pour représenter des programmes, il est devenu, dans les années 1970 et 80, un des langages de choix pour la recherche en intelligence artificielle.",
+    "date" : "1958",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/6/64/Lisplogo_alien_256.png"
+  }, {
+    "name" : "COBOL",
+    "description" : "Cobol est un langage de programmation créé en 1959. Son nom est l’acronyme de COmmon Business Oriented Language qui révèle sa vocation originelle : être un langage commun pour la programmation d'applications de gestion. Aujourd'hui, il est surtout utilisé dans les secteurs de la banque, des assurances, des grandes administrations.",
+    "date" : "1959",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/e/eb/COBOL.png"
+  }, {
+    "name" : "BASIC",
+    "description" : "BASIC (de l'acronyme anglais BASIC pour Beginner's All-purpose Symbolic Instruction Code, littéralement « code d'instruction symbolique multiusage du débutant »), fait partie d'une famille de langages de programmation de haut niveau ayant pour caractéristique leur facilité d'utilisation.",
+    "date" : "1964",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Basic_logo.svg/375px-Basic_logo.svg.png"
+  }, {
+    "name" : "Pascal",
+    "description" : "Pascal est un langage de programmation impératif conçu pour l'enseignement. Il se caractérise par une syntaxe claire, rigoureuse et facilitant la structuration des programmes.",
+    "date" : "1970",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pascal_Pictures_logo.svg/1200px-Pascal_Pictures_logo.svg.png"
+  }, {
+    "name" : "C",
+    "description" : "C est un langage de programmation impératif, généraliste et de bas niveau. Inventé au début des années 1970 pour réécrire Unix, le langage C est encore largement utilisé.",
+    "date" : "1972",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png"
+  }, {
+    "name" : "PROLOG",
+    "description" : "Prolog est un langage de programmation logique. Le nom Prolog est un acronyme de PROgrammation en LOGique. Il a été créé par Alain Colmerauer et Philippe Roussel vers 1972 à Luminy, Marseille. Le but était de créer un langage de programmation où seraient définies les règles logiques attendues d'une solution et de laisser le compilateur la transformer en séquence d'instructions.",
+    "date" : "1972",
+    "url" : "https://plugins.jetbrains.com/files/13954/290585/icon/default.png"
+  }, {
+    "name" : "SCHEME",
+    "description" : "Scheme est un langage de programmation dérivé du langage fonctionnel Lisp, créé au MIT.",
+    "date" : "1975",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/7/79/PltSchemeLogo.gif?20090114005756"
+  }, {
+    "name" : "SQL",
+    "description" : "SQL (sigle pour Structured Query Language, « langage de requêtes structurées ») est un langage informatique normalisé servant à exploiter des bases de données relationnelles.",
+    "date" : "1978",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/6/69/Microsoft_SQL_Server_Logo.png?20080623103336"
+  }, {
+    "name" : "Ada",
+    "description" : "Ada est un langage de programmation orienté objet. Le nom a été choisi en l'honneur d'Ada Lovelace, sans doute la première informaticienne de l’histoire.",
+    "date" : "1983",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ada_horizon_green_logo_with_slogan.svg/250px-Ada_horizon_green_logo_with_slogan.svg.png"
+  }, {
+    "name" : "Objective-C",
+    "description" : "Objective-C est un langage de programmation orienté objet réflexif. C'est une extension du C ANSI, comme le C++, mais qui se distingue de ce dernier par sa distribution dynamique des messages, son typage faible ou fort, son typage dynamique et son chargement dynamique.",
+    "date" : "1983",
+    "url" : "https://static-00.iconduck.com/assets.00/objective-c-icon-1024x1024-dj7xxf4d.png"
+  }, {
+    "name" : "C++",
+    "description" : "C++ est un langage de programmation compilé permettant la programmation sous de multiples paradigmes, dont la programmation procédurale, la programmation orientée objet et la programmation générique. Ses bonnes performances, et sa compatibilité avec le langage C en font un des langages de programmation les plus utilisés dans les applications où la performance est critique.",
+    "date" : "1985",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/5/5d/Dev-C%2B%2B_logo.png?20120517152539"
+  }, {
+    "name" : "PERL",
+    "description" : "Perl est un langage de programmation créé par Larry Wall en 1987 pour traiter facilement de l'information de type textuel. Ce langage, interprété, s'inspire des structures de contrôle et d'impression du langage C, mais aussi de langages de scripts sed, awk et shell (sh).",
+    "date" : "1987",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/2/28/Perl5Raptor.png?20211022204537"
+  }, {
+    "name" : "PYTHON",
+    "description" : "Python est un langage de programmation interprété, multiparadigme et multiplateformes. Il favorise la programmation impérative structurée, fonctionnelle et orientée objet.",
+    "date" : "1991",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png"
+  }, {
+    "name" : "J",
+    "description" : "J est un langage de programmation successeur d'APL, conçu pour la programmation mathématique, statistique et l'analyse de données.",
+    "date" : "1991",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/6/65/J_%28programming_language%29_icon.png?20100501180106"
+  }, {
+    "name" : "LUA",
+    "description" : "Lua est un langage de script libre, réflexif et impératif.",
+    "date" : "1993",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/90px-Luau_Logo_%28Programming_Language%29.svg.png?20220524083445"
+  }, {
+    "name" : "RUBY",
+    "description" : "Ruby est un langage de programmation libre. Il est interprété, orienté objet et multi-paradigme.",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/297px-Ruby_logo.svg.png?20101129171534"
+  }, {
+    "name" : "JAVA",
+    "description" : "Java est un langage de programmation de haut niveau orienté objet. Un logiciel écrit en langage Java a pour particularité d'être compilé vers un code intermédiaire formé de bytecodes qui peut être exécuté dans une machine virtuelle Java (JVM) en faisant abstraction du système d'exploitation.",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png"
+  }, {
+    "name" : "PHP",
+    "description" : "PHP: Hypertext Preprocessor, plus connu sous son sigle PHP (sigle auto-référentiel), est un langage de programmation libre, principalement utilisé pour produire des pages Web dynamiques via un serveur web, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet.",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434"
+  }, {
+    "name" : "JAVASCRIPT",
+    "description" : "JavaScript est un langage de programmation de scripts principalement employé dans les pages web interactives et à ce titre est une partie essentielle des applications web. Avec les langages HTML et CSS, JavaScript est au coeur des langages utilisés par les développeurs web.",
+    "date" : "1996",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"
+  }, {
+    "name" : "SlickEdit",
+    "description" : "SlickEdit est un éditeur de code multiplateforme conçu pour les développeurs professionnels. Il prend en charge plus de 70 langages et offre des fonctionnalités avancées comme la refactorisation, les macros, et la navigation rapide.",
+    "date" : "1988",
+    "url" : "https://upload.wikimedia.org/wikipedia/en/0/08/SlickEdit-icon.png"
+  }, {
+    "name" : "Turbo C++",
+    "description" : "Turbo C++ est un environnement de développement lancé par Borland en 1990. Il a été très utilisé dans l’enseignement pour la programmation en C/C++, grâce à sa simplicité et sa rapidité d'exécution.",
+    "date" : "1990",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/1/16/Turbo_CPP_Compiler.jpg"
+  }, {
+    "name" : "Vim",
+    "description" : "Vim est un éditeur de texte en ligne de commande puissant et modulaire. Apprécié pour son efficacité et sa personnalisation, il est utilisé pour coder rapidement sans souris dans des environnements Unix/Linux.",
+    "date" : "1991",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Deus_Vim_Software.png/640px-Deus_Vim_Software.png"
+  }, {
+    "name" : "BBEdit",
+    "description" : "BBEdit est un éditeur de texte pour macOS orienté vers le développement web et la manipulation de texte. Il prend en charge de nombreux langages et propose des outils de recherche, comparaison et édition avancés.",
+    "date" : "1992",
+    "url" : "https://upload.wikimedia.org/wikipedia/en/8/89/BBEdit.png"
+  }, {
+    "name" : "Delphi",
+    "description" : "Delphi est un environnement RAD fondé sur le langage Object Pascal. Il permet de concevoir rapidement des applications Windows natives avec une interface graphique riche et une compilation rapide, très prisé dans les années 90.",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/fr/a/a1/Delphi-logo-1024.png"
+  } ]
+}, {
+  "name" : "Langages de programmation historiques 2",
+  "cards" : [ {
+    "name" : "Fortran",
+    "description" : "Fortran (mathematical FORmula TRANslating system) est un langage de programmation généraliste dont le domaine de prédilection est le calcul scientifique et le calcul numérique.",
+    "date" : "1954",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/b/b6/Fortran.png"
+  }, {
+    "name" : "LISP",
+    "description" : "Lisp est la plus ancienne famille de langages de programmation à la fois impératifs et fonctionnels. Développé initialement en tant que modèle pratique pour représenter des programmes, il est devenu, dans les années 1970 et 80, un des langages de choix pour la recherche en intelligence artificielle.",
+    "date" : "1958",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/6/64/Lisplogo_alien_256.png"
+  }, {
+    "name" : "COBOL",
+    "description" : "Cobol est un langage de programmation créé en 1959. Son nom est l’acronyme de COmmon Business Oriented Language qui révèle sa vocation originelle : être un langage commun pour la programmation d'applications de gestion. Aujourd'hui, il est surtout utilisé dans les secteurs de la banque, des assurances, des grandes administrations.",
+    "date" : "1959",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/e/eb/COBOL.png"
+  }, {
+    "name" : "BASIC",
+    "description" : "BASIC (de l'acronyme anglais BASIC pour Beginner's All-purpose Symbolic Instruction Code, littéralement « code d'instruction symbolique multiusage du débutant »), fait partie d'une famille de langages de programmation de haut niveau ayant pour caractéristique leur facilité d'utilisation.",
+    "date" : "1964",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Basic_logo.svg/375px-Basic_logo.svg.png"
+  }, {
+    "name" : "Pascal",
+    "description" : "Pascal est un langage de programmation impératif conçu pour l'enseignement. Il se caractérise par une syntaxe claire, rigoureuse et facilitant la structuration des programmes.",
+    "date" : "1970",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pascal_Pictures_logo.svg/1200px-Pascal_Pictures_logo.svg.png"
+  }, {
+    "name" : "C",
+    "description" : "C est un langage de programmation impératif, généraliste et de bas niveau. Inventé au début des années 1970 pour réécrire Unix, le langage C est encore largement utilisé.",
+    "date" : "1972",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png"
+  }, {
+    "name" : "PROLOG",
+    "description" : "Prolog est un langage de programmation logique. Le nom Prolog est un acronyme de PROgrammation en LOGique. Il a été créé par Alain Colmerauer et Philippe Roussel vers 1972 à Luminy, Marseille. Le but était de créer un langage de programmation où seraient définies les règles logiques attendues d'une solution et de laisser le compilateur la transformer en séquence d'instructions.",
+    "date" : "1972",
+    "url" : "https://plugins.jetbrains.com/files/13954/290585/icon/default.png"
+  }, {
+    "name" : "SCHEME",
+    "description" : "Scheme est un langage de programmation dérivé du langage fonctionnel Lisp, créé au MIT.",
+    "date" : "1975",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/7/79/PltSchemeLogo.gif?20090114005756"
+  }, {
+    "name" : "SQL",
+    "description" : "SQL (sigle pour Structured Query Language, « langage de requêtes structurées ») est un langage informatique normalisé servant à exploiter des bases de données relationnelles.",
+    "date" : "1978",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/6/69/Microsoft_SQL_Server_Logo.png?20080623103336"
+  }, {
+    "name" : "Ada",
+    "description" : "Ada est un langage de programmation orienté objet. Le nom a été choisi en l'honneur d'Ada Lovelace, sans doute la première informaticienne de l’histoire.",
+    "date" : "1983",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ada_horizon_green_logo_with_slogan.svg/250px-Ada_horizon_green_logo_with_slogan.svg.png"
+  }, {
+    "name" : "Objective-C",
+    "description" : "Objective-C est un langage de programmation orienté objet réflexif. C'est une extension du C ANSI, comme le C++, mais qui se distingue de ce dernier par sa distribution dynamique des messages, son typage faible ou fort, son typage dynamique et son chargement dynamique.",
+    "date" : "1983",
+    "url" : "https://static-00.iconduck.com/assets.00/objective-c-icon-1024x1024-dj7xxf4d.png"
+  }, {
+    "name" : "C++",
+    "description" : "C++ est un langage de programmation compilé permettant la programmation sous de multiples paradigmes, dont la programmation procédurale, la programmation orientée objet et la programmation générique. Ses bonnes performances, et sa compatibilité avec le langage C en font un des langages de programmation les plus utilisés dans les applications où la performance est critique.",
+    "date" : "1985",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/5/5d/Dev-C%2B%2B_logo.png?20120517152539"
+  }, {
+    "name" : "PERL",
+    "description" : "Perl est un langage de programmation créé par Larry Wall en 1987 pour traiter facilement de l'information de type textuel. Ce langage, interprété, s'inspire des structures de contrôle et d'impression du langage C, mais aussi de langages de scripts sed, awk et shell (sh).",
+    "date" : "1987",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/2/28/Perl5Raptor.png?20211022204537"
+  }, {
+    "name" : "PYTHON",
+    "description" : "Python est un langage de programmation interprété, multiparadigme et multiplateformes. Il favorise la programmation impérative structurée, fonctionnelle et orientée objet.",
+    "date" : "1991",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png"
+  }, {
+    "name" : "J",
+    "description" : "J est un langage de programmation successeur d'APL, conçu pour la programmation mathématique, statistique et l'analyse de données.",
+    "date" : "1991",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/6/65/J_%28programming_language%29_icon.png?20100501180106"
+  }, {
+    "name" : "LUA",
+    "description" : "Lua est un langage de script libre, réflexif et impératif.",
+    "date" : "1993",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/90px-Luau_Logo_%28Programming_Language%29.svg.png?20220524083445"
+  }, {
+    "name" : "RUBY",
+    "description" : "Ruby est un langage de programmation libre. Il est interprété, orienté objet et multi-paradigme.",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/297px-Ruby_logo.svg.png?20101129171534"
+  }, {
+    "name" : "JAVA",
+    "description" : "Java est un langage de programmation de haut niveau orienté objet. Un logiciel écrit en langage Java a pour particularité d'être compilé vers un code intermédiaire formé de bytecodes qui peut être exécuté dans une machine virtuelle Java (JVM) en faisant abstraction du système d'exploitation.",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png"
+  }, {
+    "name" : "PHP",
+    "description" : "PHP: Hypertext Preprocessor, plus connu sous son sigle PHP (sigle auto-référentiel), est un langage de programmation libre, principalement utilisé pour produire des pages Web dynamiques via un serveur web, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet.",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434"
+  }, {
+    "name" : "JAVASCRIPT",
+    "description" : "JavaScript est un langage de programmation de scripts principalement employé dans les pages web interactives et à ce titre est une partie essentielle des applications web. Avec les langages HTML et CSS, JavaScript est au coeur des langages utilisés par les développeurs web.",
+    "date" : "1996",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"
+  }, {
+    "name" : "SlickEdit",
+    "description" : "SlickEdit est un éditeur de code multiplateforme conçu pour les développeurs professionnels. Il prend en charge plus de 70 langages et offre des fonctionnalités avancées comme la refactorisation, les macros, et la navigation rapide.",
+    "date" : "1988",
+    "url" : "https://upload.wikimedia.org/wikipedia/en/0/08/SlickEdit-icon.png"
+  }, {
+    "name" : "Turbo C++",
+    "description" : "Turbo C++ est un environnement de développement lancé par Borland en 1990. Il a été très utilisé dans l’enseignement pour la programmation en C/C++, grâce à sa simplicité et sa rapidité d'exécution.",
+    "date" : "1990",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/1/16/Turbo_CPP_Compiler.jpg"
+  }, {
+    "name" : "Vim",
+    "description" : "Vim est un éditeur de texte en ligne de commande puissant et modulaire. Apprécié pour son efficacité et sa personnalisation, il est utilisé pour coder rapidement sans souris dans des environnements Unix/Linux.",
+    "date" : "1991",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Deus_Vim_Software.png/640px-Deus_Vim_Software.png"
+  }, {
+    "name" : "BBEdit",
+    "description" : "BBEdit est un éditeur de texte pour macOS orienté vers le développement web et la manipulation de texte. Il prend en charge de nombreux langages et propose des outils de recherche, comparaison et édition avancés.",
+    "date" : "1992",
+    "url" : "https://upload.wikimedia.org/wikipedia/en/8/89/BBEdit.png"
+  }, {
+    "name" : "Delphi",
+    "description" : "Delphi est un environnement RAD fondé sur le langage Object Pascal. Il permet de concevoir rapidement des applications Windows natives avec une interface graphique riche et une compilation rapide, très prisé dans les années 90.",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/fr/a/a1/Delphi-logo-1024.png"
+  } ]
+}, {
+  "name" : "Langages de programmation historiques 4",
+  "cards" : [ {
+    "name" : "Fortran",
+    "description" : "Fortran (mathematical FORmula TRANslating system) est un langage de programmation généraliste dont le domaine de prédilection est le calcul scientifique et le calcul numérique.",
+    "date" : "1954",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/b/b6/Fortran.png"
+  }, {
+    "name" : "LISP",
+    "description" : "Lisp est la plus ancienne famille de langages de programmation à la fois impératifs et fonctionnels. Développé initialement en tant que modèle pratique pour représenter des programmes, il est devenu, dans les années 1970 et 80, un des langages de choix pour la recherche en intelligence artificielle.",
+    "date" : "1958",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/6/64/Lisplogo_alien_256.png"
+  }, {
+    "name" : "COBOL",
+    "description" : "Cobol est un langage de programmation créé en 1959. Son nom est l’acronyme de COmmon Business Oriented Language qui révèle sa vocation originelle : être un langage commun pour la programmation d'applications de gestion. Aujourd'hui, il est surtout utilisé dans les secteurs de la banque, des assurances, des grandes administrations.",
+    "date" : "1959",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/e/eb/COBOL.png"
+  }, {
+    "name" : "BASIC",
+    "description" : "BASIC (de l'acronyme anglais BASIC pour Beginner's All-purpose Symbolic Instruction Code, littéralement « code d'instruction symbolique multiusage du débutant »), fait partie d'une famille de langages de programmation de haut niveau ayant pour caractéristique leur facilité d'utilisation.",
+    "date" : "1964",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Basic_logo.svg/375px-Basic_logo.svg.png"
+  }, {
+    "name" : "Pascal",
+    "description" : "Pascal est un langage de programmation impératif conçu pour l'enseignement. Il se caractérise par une syntaxe claire, rigoureuse et facilitant la structuration des programmes.",
+    "date" : "1970",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pascal_Pictures_logo.svg/1200px-Pascal_Pictures_logo.svg.png"
+  }, {
+    "name" : "C",
+    "description" : "C est un langage de programmation impératif, généraliste et de bas niveau. Inventé au début des années 1970 pour réécrire Unix, le langage C est encore largement utilisé.",
+    "date" : "1972",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png"
+  }, {
+    "name" : "PROLOG",
+    "description" : "Prolog est un langage de programmation logique. Le nom Prolog est un acronyme de PROgrammation en LOGique. Il a été créé par Alain Colmerauer et Philippe Roussel vers 1972 à Luminy, Marseille. Le but était de créer un langage de programmation où seraient définies les règles logiques attendues d'une solution et de laisser le compilateur la transformer en séquence d'instructions.",
+    "date" : "1972",
+    "url" : "https://plugins.jetbrains.com/files/13954/290585/icon/default.png"
+  }, {
+    "name" : "SCHEME",
+    "description" : "Scheme est un langage de programmation dérivé du langage fonctionnel Lisp, créé au MIT.",
+    "date" : "1975",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/7/79/PltSchemeLogo.gif?20090114005756"
+  }, {
+    "name" : "SQL",
+    "description" : "SQL (sigle pour Structured Query Language, « langage de requêtes structurées ») est un langage informatique normalisé servant à exploiter des bases de données relationnelles.",
+    "date" : "1978",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/6/69/Microsoft_SQL_Server_Logo.png?20080623103336"
+  }, {
+    "name" : "Ada",
+    "description" : "Ada est un langage de programmation orienté objet. Le nom a été choisi en l'honneur d'Ada Lovelace, sans doute la première informaticienne de l’histoire.",
+    "date" : "1983",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ada_horizon_green_logo_with_slogan.svg/250px-Ada_horizon_green_logo_with_slogan.svg.png"
+  }, {
+    "name" : "Objective-C",
+    "description" : "Objective-C est un langage de programmation orienté objet réflexif. C'est une extension du C ANSI, comme le C++, mais qui se distingue de ce dernier par sa distribution dynamique des messages, son typage faible ou fort, son typage dynamique et son chargement dynamique.",
+    "date" : "1983",
+    "url" : "https://static-00.iconduck.com/assets.00/objective-c-icon-1024x1024-dj7xxf4d.png"
+  }, {
+    "name" : "C++",
+    "description" : "C++ est un langage de programmation compilé permettant la programmation sous de multiples paradigmes, dont la programmation procédurale, la programmation orientée objet et la programmation générique. Ses bonnes performances, et sa compatibilité avec le langage C en font un des langages de programmation les plus utilisés dans les applications où la performance est critique.",
+    "date" : "1985",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/5/5d/Dev-C%2B%2B_logo.png?20120517152539"
+  }, {
+    "name" : "PERL",
+    "description" : "Perl est un langage de programmation créé par Larry Wall en 1987 pour traiter facilement de l'information de type textuel. Ce langage, interprété, s'inspire des structures de contrôle et d'impression du langage C, mais aussi de langages de scripts sed, awk et shell (sh).",
+    "date" : "1987",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/2/28/Perl5Raptor.png?20211022204537"
+  }, {
+    "name" : "PYTHON",
+    "description" : "Python est un langage de programmation interprété, multiparadigme et multiplateformes. Il favorise la programmation impérative structurée, fonctionnelle et orientée objet.",
+    "date" : "1991",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png"
+  }, {
+    "name" : "J",
+    "description" : "J est un langage de programmation successeur d'APL, conçu pour la programmation mathématique, statistique et l'analyse de données.",
+    "date" : "1991",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/6/65/J_%28programming_language%29_icon.png?20100501180106"
+  }, {
+    "name" : "LUA",
+    "description" : "Lua est un langage de script libre, réflexif et impératif.",
+    "date" : "1993",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/90px-Luau_Logo_%28Programming_Language%29.svg.png?20220524083445"
+  }, {
+    "name" : "RUBY",
+    "description" : "Ruby est un langage de programmation libre. Il est interprété, orienté objet et multi-paradigme.",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/297px-Ruby_logo.svg.png?20101129171534"
+  }, {
+    "name" : "JAVA",
+    "description" : "Java est un langage de programmation de haut niveau orienté objet. Un logiciel écrit en langage Java a pour particularité d'être compilé vers un code intermédiaire formé de bytecodes qui peut être exécuté dans une machine virtuelle Java (JVM) en faisant abstraction du système d'exploitation.",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png"
+  }, {
+    "name" : "PHP",
+    "description" : "PHP: Hypertext Preprocessor, plus connu sous son sigle PHP (sigle auto-référentiel), est un langage de programmation libre, principalement utilisé pour produire des pages Web dynamiques via un serveur web, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet.",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434"
+  }, {
+    "name" : "JAVASCRIPT",
+    "description" : "JavaScript est un langage de programmation de scripts principalement employé dans les pages web interactives et à ce titre est une partie essentielle des applications web. Avec les langages HTML et CSS, JavaScript est au coeur des langages utilisés par les développeurs web.",
+    "date" : "1996",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"
+  }, {
+    "name" : "SlickEdit",
+    "description" : "SlickEdit est un éditeur de code multiplateforme conçu pour les développeurs professionnels. Il prend en charge plus de 70 langages et offre des fonctionnalités avancées comme la refactorisation, les macros, et la navigation rapide.",
+    "date" : "1988",
+    "url" : "https://upload.wikimedia.org/wikipedia/en/0/08/SlickEdit-icon.png"
+  }, {
+    "name" : "Turbo C++",
+    "description" : "Turbo C++ est un environnement de développement lancé par Borland en 1990. Il a été très utilisé dans l’enseignement pour la programmation en C/C++, grâce à sa simplicité et sa rapidité d'exécution.",
+    "date" : "1990",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/1/16/Turbo_CPP_Compiler.jpg"
+  }, {
+    "name" : "Vim",
+    "description" : "Vim est un éditeur de texte en ligne de commande puissant et modulaire. Apprécié pour son efficacité et sa personnalisation, il est utilisé pour coder rapidement sans souris dans des environnements Unix/Linux.",
+    "date" : "1991",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Deus_Vim_Software.png/640px-Deus_Vim_Software.png"
+  }, {
+    "name" : "BBEdit",
+    "description" : "BBEdit est un éditeur de texte pour macOS orienté vers le développement web et la manipulation de texte. Il prend en charge de nombreux langages et propose des outils de recherche, comparaison et édition avancés.",
+    "date" : "1992",
+    "url" : "https://upload.wikimedia.org/wikipedia/en/8/89/BBEdit.png"
+  }, {
+    "name" : "Delphi",
+    "description" : "Delphi est un environnement RAD fondé sur le langage Object Pascal. Il permet de concevoir rapidement des applications Windows natives avec une interface graphique riche et une compilation rapide, très prisé dans les années 90.",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/fr/a/a1/Delphi-logo-1024.png"
+  } ]
+}, {
+  "name" : "Langages de programmation historiques 3",
+  "cards" : [ {
+    "name" : "Fortran",
+    "description" : "À compléter",
+    "date" : "1954",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/b/b6/Fortran.png"
+  }, {
+    "name" : "LISP",
+    "description" : "À compléter",
+    "date" : "1958",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/6/64/Lisplogo_alien_256.png"
+  }, {
+    "name" : "COBOL",
+    "description" : "À compléter",
+    "date" : "1959",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/e/eb/COBOL.png"
+  }, {
+    "name" : "BASIC",
+    "description" : "À compléter",
+    "date" : "1964",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Basic_logo.svg/375px-Basic_logo.svg.png"
+  }, {
+    "name" : "Pascal",
+    "description" : "À compléter",
+    "date" : "1970",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pascal_Pictures_logo.svg/1200px-Pascal_Pictures_logo.svg.png"
+  }, {
+    "name" : "C",
+    "description" : "À compléter",
+    "date" : "1972",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png"
+  }, {
+    "name" : "PROLOG",
+    "description" : "À compléter",
+    "date" : "1972",
+    "url" : "https://plugins.jetbrains.com/files/13954/290585/icon/default.png"
+  }, {
+    "name" : "SCHEME",
+    "description" : "À compléter",
+    "date" : "1975",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/7/79/PltSchemeLogo.gif?20090114005756"
+  }, {
+    "name" : "SQL",
+    "description" : "À compléter",
+    "date" : "1978",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/6/69/Microsoft_SQL_Server_Logo.png?20080623103336"
+  }, {
+    "name" : "Ada",
+    "description" : "À compléter",
+    "date" : "1983",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ada_horizon_green_logo_with_slogan.svg/250px-Ada_horizon_green_logo_with_slogan.svg.png"
+  }, {
+    "name" : "Objective-C",
+    "description" : "À compléter",
+    "date" : "1983",
+    "url" : "https://static-00.iconduck.com/assets.00/objective-c-icon-1024x1024-dj7xxf4d.png"
+  }, {
+    "name" : "C++",
+    "description" : "À compléter",
+    "date" : "1985",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/5/5d/Dev-C%2B%2B_logo.png?20120517152539"
+  }, {
+    "name" : "PERL",
+    "description" : "À compléter",
+    "date" : "1987",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/2/28/Perl5Raptor.png?20211022204537"
+  }, {
+    "name" : "PYTHON",
+    "description" : "À compléter",
+    "date" : "1991",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png"
+  }, {
+    "name" : "J",
+    "description" : "À compléter",
+    "date" : "1991",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/6/65/J_%28programming_language%29_icon.png?20100501180106"
+  }, {
+    "name" : "LUA",
+    "description" : "À compléter",
+    "date" : "1993",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/90px-Luau_Logo_%28Programming_Language%29.svg.png?20220524083445"
+  }, {
+    "name" : "RUBY",
+    "description" : "À compléter",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/297px-Ruby_logo.svg.png?20101129171534"
+  }, {
+    "name" : "JAVA",
+    "description" : "À compléter",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png"
+  }, {
+    "name" : "PHP",
+    "description" : "À compléter",
+    "date" : "1995",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434"
+  }, {
+    "name" : "JAVASCRIPT",
+    "description" : "À compléter",
+    "date" : "1996",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"
+  }, {
+    "name" : "SlickEdit",
+    "description" : "À compléter",
+    "date" : "1988",
+    "url" : "https://upload.wikimedia.org/wikipedia/en/0/08/SlickEdit-icon.png"
+  }, {
+    "name" : "Turbo C++",
+    "description" : "À compléter",
+    "date" : "1990",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/1/16/Turbo_CPP_Compiler.jpg"
+  }, {
+    "name" : "Vim",
+    "description" : "À compléter",
+    "date" : "1991",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Deus_Vim_Software.png/640px-Deus_Vim_Software.png"
+  }, {
+    "name" : "BBEdit",
+    "description" : "À compléter",
+    "date" : "1992",
+    "url" : "https://upload.wikimedia.org/wikipedia/en/8/89/BBEdit.png"
+  } ]
+} ]

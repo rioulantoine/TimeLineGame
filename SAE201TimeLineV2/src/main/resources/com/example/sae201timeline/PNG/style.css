@@ -1,0 +1,254 @@
+/*Page d'acceuil*/
+
+/*Fond*/
+.root{
+    -fx-background-image: url("Fond.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+/*Titre TimeLine*/
+.TimeLineTitle{
+    -fx-color: red;
+    -fx-text-align: center;
+    -fx-font-family: "Segoe UI";
+    -fx-font-size: 100px;
+    -fx-font-style: normal;
+    -fx-font-weight: 400;
+    -fx-line-height: normal;
+}
+
+.BasicButton {
+    -fx-font-family: 'Quicksand', sans-serif;
+    -fx-font-size: 25px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-alignment: CENTER_LEFT;
+
+    -fx-padding: 5 10 5 10;
+    -fx-cursor: hand;
+}
+
+.BasicButton:hover {
+    -fx-text-fill: rgba(18, 140, 175, 0.84);
+    -fx-effect: dropshadow(gaussian, rgba(18, 140, 175, 0.84), 10, 0.3, 0, 0);
+}
+
+.label.titreCredits {
+    -fx-font-size: 36px;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
+
+.label.sousTitreCredits {
+    -fx-font-size: 23px;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+}
+
+.label.nomCredits {
+    -fx-font-size: 18px;
+    -fx-text-fill: white;
+}
+
+.GeneralTitles{
+    -fx-font-size: 36px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.JoueursButton {
+    -fx-font-family: "Orbitron";
+    -fx-font-size: 20px;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+
+    -fx-background-insets: 0;
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-border-width: 0;
+    -fx-border-color: transparent;
+
+    -fx-padding: 10 25 10 25;
+    -fx-effect: dropshadow(gaussian, #00bfff, 15, 0.3, 0, 0);
+    -fx-cursor: hand;
+}
+
+.JoueursButton:hover {
+    -fx-effect: dropshadow(gaussian, #00bfff, 25, 0.3, 0, 0);
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+}
+
+.labelRules{
+    -fx-font-size: 12px;
+    -fx-text-fill: white;
+}
+.carte {
+    -fx-background-image: url("FondCartesArrondi.png");
+    -fx-background-color: #0E3F50 ;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+
+    -fx-padding: 10;
+}
+
+.validerButtonn{
+ -fx-font-family: "Orbitron";
+    -fx-font-size: 13px;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+
+    -fx-background-insets: 0;
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-border-width: 0;
+    -fx-border-color: transparent;
+
+
+    -fx-effect: dropshadow(gaussian, #00bfff, 15, 0.3, 0, 0);
+    -fx-cursor: hand;
+}
+
+.choice-box {
+    -fx-background-color: black;
+    -fx-border-color: white;
+    -fx-border-width: 2px;
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-padding: 4 8;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.choice-box:hover {
+    -fx-effect: dropshadow(gaussian, white, 10, 0.5, 0, 0);
+}
+.text-field{
+    -fx-font-family: 'Quicksand', sans-serif;
+    -fx-font-size: 16px;
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+    -fx-border-color: rgba(255, 255, 255, 0.6);
+    -fx-border-width: 2;
+    -fx-background-color: rgba(255, 255, 255, 0.1);
+    -fx-text-fill: white;
+    -fx-prompt-text-fill: rgba(255, 255, 255, 0.6);
+}
+.text-area {
+    -fx-font-family: 'Quicksand', sans-serif;
+    -fx-font-size: 16px;
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+    -fx-border-color: rgba(255, 255, 255, 0.6);
+    -fx-border-width: 2;
+    -fx-text-fill: rgba(18, 140, 175, 0.5);
+    -fx-prompt-text-fill: rgba(255, 255, 255, 0.6);
+    -fx-wrap-text: true;
+}
+
+.combo-box {
+    -fx-font-family: 'Quicksand', sans-serif;
+    -fx-font-size: 16px;
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+    -fx-border-color: rgba(255, 255, 255, 0.6);
+    -fx-border-width: 2;
+    -fx-background-color: rgba(255, 255, 255, 0.1);
+    -fx-text-fill: white;
+}
+.ActionButton {
+    -fx-font-family: 'Quicksand', sans-serif;
+    -fx-font-size: 18px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+
+    -fx-background-color: rgba(18, 140, 175, 0.5);
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+    -fx-border-color: white;
+    -fx-border-width: 2;
+    -fx-cursor: hand;
+    -fx-padding: 8 20 8 20;
+}
+
+.ActionButton:hover {
+    -fx-background-color: rgba(18, 140, 175, 0.8);
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+}
+
+.deck-card {
+    -fx-background-color: rgba(255, 255, 255, 0.1);
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-border-color: transparent;
+    -fx-padding: 15;
+    -fx-pref-width: 150;
+    -fx-pref-height: 150;
+    -fx-alignment: center;
+    -fx-font-size: 16px;
+    -fx-text-fill: white;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, #128caf, 5, 0.2, 0, 0);
+}
+.deck-card:hover {
+    -fx-scale-x: 1.08;
+    -fx-scale-y: 1.08;
+    -fx-effect: dropshadow(gaussian, #00bfff, 10, 0.3, 0, 0);
+}
+.deck-card.selected {
+    -fx-border-color: #00bfff;
+    -fx-border-width: 3;
+}
+/* ScrollPane général */
+.scroll-pane {
+    -fx-background-color: transparent;
+    -fx-background-insets: 0;
+    -fx-padding: 0;
+    -fx-border-color: transparent;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+
+/* Contenu interne */
+.scroll-pane .viewport {
+    -fx-background-color: transparent;
+}
+
+/* Barre de scroll verticale */
+.scroll-bar:vertical {
+    -fx-pref-width: 10px;
+    -fx-background-color: transparent;
+}
+
+/* Fond de la scrollbar */
+.scroll-bar:vertical .track {
+    -fx-background-color: rgba(255, 255, 255, 0.05);
+    -fx-background-radius: 5;
+}
+
+/* Curseur de la scrollbar */
+.scroll-bar:vertical .thumb {
+    -fx-background-color: rgba(0, 191, 255, 0.7); /* turquoise flashy */
+    -fx-background-radius: 5;
+}
+
+.scroll-bar:vertical .thumb:hover {
+    -fx-background-color: rgba(0, 191, 255, 1);
+}
+
+/* Supprimer la barre horizontale */
+.scroll-bar:horizontal {
+    -fx-opacity: 0;
+    -fx-max-height: 0;
+}

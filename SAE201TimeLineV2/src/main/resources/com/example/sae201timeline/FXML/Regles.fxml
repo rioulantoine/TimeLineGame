@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" stylesheets="@../PNG/style.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.application.ReglesController">
+   <children>
+      <Label layoutX="147.0" layoutY="14.0" styleClass="GeneralTitles" text="Comment jouer ?" />
+      <Pane layoutX="26.0" layoutY="76.0" prefHeight="34.0" prefWidth="200.0" style="-fx-background-color: white; -fx-background-radius: 4;">
+         <children>
+            <Label layoutX="38.0" styleClass="sousTitreCredits" text="But du jeu" />
+         </children>
+      </Pane>
+      <Label layoutX="26.0" layoutY="118.0" styleClass="labelRules" text="Placer correctement tous les événements sur une ligne du temps dans le bon ordre chronologique." />
+      <Pane layoutX="26.0" layoutY="142.0" prefHeight="34.0" prefWidth="200.0" style="-fx-background-color: white; -fx-background-radius: 4;">
+         <children>
+            <Label layoutX="29.0" styleClass="sousTitreCredits" text="Déroulement" />
+         </children>
+      </Pane>
+      <Label layoutX="34.0" layoutY="183.0" styleClass="labelRules" text="Au début de la partie, une première carte est placée face visible : elle marque le point de départ." />
+      <Label layoutX="34.0" layoutY="208.0" styleClass="labelRules" text="À chaque tour, le joueur pioche une nouvelle carte" />
+      <Label layoutX="34.0" layoutY="232.0" styleClass="labelRules" text="Il doit ensuite la placer sur la ligne du temps à l’endroit qu’il estime être le bon (avant, entre, ou après)." />
+      <Label layoutX="34.0" layoutY="261.0" styleClass="labelRules" text="Une fois la carte positionnée,  Si elle est bien placée, elle reste sur la timeline sinon le joueur pioche" />
+      <Label layoutX="34.0" layoutY="291.0" styleClass="labelRules" text="En solo, le joueur continue jusqu'à avoir placé toutes les cartes ou atteint le nombre d’erreurs limite." />
+      <Label layoutX="34.0" layoutY="319.0" styleClass="labelRules" text="En duel, le premier à placer toutes ses cartes correctement remporte la partie." />
+      <Button layoutX="26.0" layoutY="336.0" mnemonicParsing="false" onAction="#retourAuJeu" styleClass="BasicButton" text="Retour" />
+   </children>
+</Pane>

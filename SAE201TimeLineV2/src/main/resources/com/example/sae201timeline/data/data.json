@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Les langages de programmation",
+    "cards": [
+      {
+        "name": "Fortran",
+        "date": "1954",
+        "description": "Fortran (mathematical FORmula TRANslating system) est un langage de programmation généraliste dont le domaine de prédilection est le calcul scientifique et le calcul numérique.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/131px-Fortran_logo.svg.png"
+      },
+      {
+        "name": "Python",
+        "date": "1991",
+        "description": "Python est un langage de programmation interprété, interactif et de haut niveau, connu pour sa syntaxe simple et lisible. Il est largement utilisé dans l’intelligence artificielle, le développement web, l’analyse de données et plus.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+      },
+      {
+        "name": "Java",
+        "date": "1995",
+        "description": "Java est un langage de programmation orienté objet, conçu pour être portable entre les plateformes grâce à la machine virtuelle Java (JVM). Il est très utilisé dans les applications d'entreprise et Android.",
+        "url": "https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg"
+      },
+      {
+        "name": "C",
+        "date": "1972",
+        "description": "Le langage C est un langage de programmation impératif, largement utilisé pour le développement système, les systèmes embarqués et les logiciels nécessitant des performances élevées.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "date": "1995",
+        "description": "JavaScript est un langage de programmation principalement utilisé côté client pour rendre les pages web interactives. Il est aussi utilisé côté serveur grâce à des environnements comme Node.js.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+      },
+      {
+        "name": "C++",
+        "date": "1985",
+        "description": "C++ est une extension orientée objet du langage C, utilisée dans les applications nécessitant de hautes performances comme les jeux vidéo, les moteurs 3D, ou encore les systèmes embarqués.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
+      },
+      {
+        "name": "Ruby",
+        "date": "1995",
+        "description": "Ruby est un langage de programmation dynamique et orienté objet, connu pour le framework Ruby on Rails, très utilisé dans le développement web.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg"
+      },
+      {
+        "name": "Go",
+        "date": "2009",
+        "description": "Go, ou Golang, est un langage développé par Google, conçu pour le développement système et les applications réseau, connu pour sa simplicité et ses performances.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg"
+      },
+      {
+        "name": "Rust",
+        "date": "2010",
+        "description": "Rust est un langage de programmation moderne conçu pour la sécurité, la vitesse et la concurrence, très utilisé dans les projets nécessitant une gestion fine de la mémoire.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg"
+      },
+      {
+        "name": "PHP",
+        "date": "1995",
+        "description": "PHP est un langage de script principalement utilisé pour le développement web côté serveur. Il est à la base de nombreux sites dynamiques et de CMS comme WordPress.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"
+      }
+    ]
+  }
+]

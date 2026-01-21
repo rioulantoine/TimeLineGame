@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="124.0" prefWidth="90.0" spacing="5" styleClass="carte" stylesheets="@../PNG/style.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="nomLabel" prefHeight="19.0" prefWidth="53.0" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </Label>
+      <ImageView fx:id="Image" fitHeight="47.0" fitWidth="54.0" pickOnBounds="true" preserveRatio="true" />
+      <Label fx:id="DateLabel" prefHeight="19.0" prefWidth="32.0" textFill="WHITE">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+   </children>
+</VBox>

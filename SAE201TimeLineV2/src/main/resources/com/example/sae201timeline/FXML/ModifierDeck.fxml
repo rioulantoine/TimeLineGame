@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane styleClass="root" stylesheets="@../PNG/style.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.application.ModifierDeckController">
+
+    <top>
+        <VBox alignment="CENTER" spacing="10">
+            <Label styleClass="GeneralTitles" text="Modifier le Deck" />
+            <HBox alignment="CENTER" spacing="10">
+                <Label styleClass="label" text="Nom :" />
+                <TextField fx:id="deckNameField" prefWidth="200" promptText="Nom du deck" />
+            </HBox>
+        </VBox>
+    </top>
+
+    <center>
+        <VBox alignment="CENTER" spacing="10">
+            <padding>
+                <Insets bottom="10" left="10" right="10" top="10" />
+            </padding>
+            <Label styleClass="label" text="Cartes dans le Deck" />
+            <ScrollPane fitToWidth="true" prefHeight="300">
+                <FlowPane fx:id="deckCardsPane" hgap="10" vgap="10">
+                    <padding>
+                        <Insets bottom="10" left="10" right="10" top="10" />
+                    </padding>
+                </FlowPane>
+            </ScrollPane>
+        </VBox>
+    </center>
+
+    <right>
+        <VBox alignment="TOP_CENTER" spacing="15">
+            <padding>
+                <Insets bottom="10" left="10" right="10" top="10" />
+            </padding>
+            <Button onAction="#onRemoveCard" styleClass="BasicButton" text="Supprimer une carte sélectionnée">
+                <VBox.margin>
+                    <Insets top="45.0" />
+                </VBox.margin></Button>
+            <Button onAction="#onAjouterCarte" prefHeight="35.0" prefWidth="227.0" styleClass="BasicButton" text="Ajouter une carte" />
+            <Button onAction="#onSaveDeck" styleClass="BasicButton" text="Sauvegarder" />
+            <Button onAction="#retourMenu" styleClass="BasicButton" text="Retour" />
+        </VBox>
+    </right>
+</BorderPane>
