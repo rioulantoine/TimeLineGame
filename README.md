@@ -77,7 +77,6 @@ Projet réalisé en quadrinôme :
 - **Marc Foucher**
 - **Antoine Rioul**
 - **Ethan Poirrier**
-- **Gabriel Chalmel-Toussin**
 
 Travail réparti entre :
 
